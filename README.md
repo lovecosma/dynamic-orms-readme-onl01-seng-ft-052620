@@ -6,7 +6,7 @@
 2. Build a basic dynamic ORM
 3. Build a dynamic ORM that can be used by any given Ruby class
 
-## Why Dynamic ORMs?
+  ## Why Dynamic ORMs?
 
 As developers, we understand the need for our Ruby programs to be able to connect with a database. Any complex application is going to need to persist some data. Along with this need, we recognize the need for the connection between our program and our database to be, like all of our code, organized and sensible. That is why we use the ORM design pattern in which a Ruby class is mapped to a database table and instances of that class are represented as rows in that table.
 
